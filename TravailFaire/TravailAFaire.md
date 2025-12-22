@@ -1,13 +1,24 @@
-# Travail à faire :
+# Blog Solicode
 
-## Fonctionnalité :
+## Travail à faire
 
-- Page Article Details
+* Créer la **page Article Details** du Blog Solicode
 
-## Labs :
+## Réalisé par
 
-- Ajax
+* **Mohamed Ouallou**
 
-## Test Maquette :
+## Encadré par
 
-- Admin : Apprenant ()
+* **Essarraj Fouad**
+
+## Labs
+
+* **Ajax**
+
+## Livrables
+
+* Blog Solicode-----> Sprint 1
+* Présentation------> Sprint 1
+
+
