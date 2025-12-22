@@ -21,4 +21,10 @@
 * Blog Solicode-----> Sprint 1
 * Présentation------> Sprint 1
 
+## Validation de Maquette 
+
+* Avec l'Apprenant : Mohamed Yassir EL Mesbahi
+
+
+
 
