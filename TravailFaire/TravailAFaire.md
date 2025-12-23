@@ -14,7 +14,7 @@
 
 ## Labs
 
-* **Ajax**
+* **PHP Naming Conventions**
 
 ## Livrables
 
@@ -23,7 +23,7 @@
 
 ## Validation de Maquette 
 
-* Avec l'Apprenant : Mohamed Yassir EL Mesbahi
+* Avec l'Apprenant : **Mohamed Yassir EL Mesbahi**
 
 
 
