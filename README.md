@@ -79,12 +79,14 @@ classDiagram
 
 # Class Diagram
 
-<img src="Presentation-image/Article-Details.png" class="maquette">
+
+<img src="Presentation-image/image.png" class="ma" style="width:100%;">
 
 ---
 # Maquette
 
-<img src="Presentation-image/image.png" class="ma" style="width:100%;">
+
+<img src="Presentation-image/Article-Details.png" class="maquette">
 
 ---
 
