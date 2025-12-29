@@ -5,7 +5,7 @@ paginate: true
 title: Blog Solicode – Sprint 1
 author: Mohamed Ouallou
 style: |
-  img {
+  img , ma{
       width: 40%;
       height: auto;
       display: block;
@@ -75,11 +75,16 @@ classDiagram
     }
 
 ```
+---
+
+# Class Diagram
+
+<img src="Presentation-image/Article-Details.png" class="maquette">
 
 ---
 # Maquette
 
-<img src="Presentation-image/Article-Details.png" class="maquette">
+<img src="Presentation-image/image.png" class="ma" style="width:100%;">
 
 ---
 
