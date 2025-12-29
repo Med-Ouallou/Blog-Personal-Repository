@@ -86,6 +86,7 @@ classDiagram
 # Maquette
 
 
+
 <img src="Presentation-image/Article-Details.png" class="maquette">
 
 ---
