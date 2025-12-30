@@ -85,7 +85,8 @@ classDiagram
 ---
 # Maquette
 
-
+**Tests** : Avec **Mohamed Yassir El Mesbahi** (apprenant 1ère année).
+Retours : Ajout d’un minuteur pour enregistrer le temps de lecture d’un article.
 
 <img src="Presentation-image/Article-Details.png" class="maquette">
 
