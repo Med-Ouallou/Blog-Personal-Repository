@@ -54,8 +54,21 @@ Créer la **Page Article Details** du **Blog Solicode**
    Présentation du Sprint 1 terminée
 
 ---
+# Design Thinking
 
-# Perspective Utilisateur
+1. **Empathie** : Comprendre besoins.
+2. **Définition** : Identifier problèmes.
+3. **Ideation** : Brainstorming solutions.
+4. **Prototypage** : Maquettes.
+5. **Tests** : Validation utilisateurs.
+
+---
+
+
+
+---
+
+# UseCase
 
 <img src="Presentation-image/usecase.png" class="ma" style="width:100%;">
 
@@ -63,7 +76,6 @@ Créer la **Page Article Details** du **Blog Solicode**
 
 # Fonctionnalités
 
-L'accueil repose sur quatre piliers techniques majeurs :
 
 ```mermaid
 classDiagram
